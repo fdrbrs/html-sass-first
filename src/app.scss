@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+$colore_1: #009688;
+
+$colore_2: #967000;
+
+$colore_3: #800096;
+
+h1{
+    color: $colore_1;
+}
+
+h2{
+    color: $colore_2;
+}
+
+h3{
+    color: $colore_3;
+}
+
+#primo_p{
+    color: $colore_1;
+}
+
+#secondo_p{
+    color: $colore_3;
+}
+
+#btn_1{
+    background-color: $colore_1;
+}
+
+#btn_2{
+    background-color: $colore_2;
+}
+
+#btn_3{
+    background-color: $colore_3;
+}
+
+
+

@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: #009688;
+}
+
+h2 {
+  color: #967000;
+}
+
+h3 {
+  color: #800096;
+}
+
+#primo_p {
+  color: #009688;
+}
+
+#secondo_p {
+  color: #800096;
+}
+
+#btn_1 {
+  background-color: #009688;
+}
+
+#btn_2 {
+  background-color: #967000;
+}
+
+#btn_3 {
+  background-color: #800096;
+}
